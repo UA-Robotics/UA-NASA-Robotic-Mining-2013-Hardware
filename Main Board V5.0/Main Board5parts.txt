@@ -1,0 +1,204 @@
+Partlist
+
+Exported from Main board V5.0.sch at 2/26/2013 11:32:24 PM
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part        Value                  Device                     Package            Library    Sheet
+
+3.3V                               EUROMAG-290DEG             M2                 NASA_LIB   7
+3.3V\                              LED-FKIT-1206              FKIT-LED-1206      SparkFun   7
+5V                                 EUROMAG-290DEG             M2                 NASA_LIB   7
+5V\                                LED-FKIT-1206              FKIT-LED-1206      SparkFun   7
+9V                                 EUROMAG-290DEG             M2                 NASA_LIB   7
+9V\                                LED-FKIT-1206              FKIT-LED-1206      SparkFun   7
+12V                                EUROMAG-290DEG             M2                 NASA_LIB   7
+12V\                               LED-FKIT-1206              FKIT-LED-1206      SparkFun   7
+13                                 LEDCHIP-LED0805            CHIP-LED0805       adafruit   1
+C1          330uF                  CPOL-US140CLH-0810         140CLH-0810        adafruit   1
+C2          330uF                  CPOL-US140CLH-0810         140CLH-0810        adafruit   1
+C3          330uf                  CPOL-US140CLH-0810         140CLH-0810        adafruit   1
+C4          330uF                  CPOL-US140CLH-0810         140CLH-0810        adafruit   1
+C5          0.1uF                  C-USC0805K                 C0805K             adafruit   4
+C6          0.1uF                  C-USC0805K                 C0805K             adafruit   4
+C7          0.1uf                  C-USC0805K                 C0805K             adafruit   4
+C8          10uf                   CAP_POL3528                EIA3528            SparkFun   4
+C9          1000pF                 C-USC1812                  C1812              adafruit   4
+C10         10uF                   CAP_POL3528-KIT            EIA3528-KIT        SparkFun   4
+C11         4.7uF                  C-USC0603                  C0603              resistor   3
+C12         0.1uF                  CPOL-USCT3528              CT3528             adafruit   3
+C13         0.1uF                  CPOL-USCT3528              CT3528             adafruit   3
+C14         0.1uF                  C-USC0805                  C0805              adafruit   3
+C15         0.1uF                  C-USC0805                  C0805              adafruit   3
+C16         100n                   C-USC0805                  C0805              adafruit   1
+C17         100n                   C-USC0805                  C0805              adafruit   1
+C18         100n                   C-USC0805                  C0805              adafruit   1
+C19         100n                   C-USC0805                  C0805              adafruit   1
+C20         22p                    C-USC0805                  C0805              adafruit   1
+C21         10nF                   CAP0603-CAP                0603-CAP           SparkFun   3
+C22         1uF                    C-USC0603                  C0603              resistor   3
+C23         10uF                   CPOL-USCT3528              CT3528             adafruit   3
+C24         10uF                   CPOL-USCT6032              CT6032             adafruit   1
+C25         4.7uF                  C-USC0603                  C0603              resistor   3
+C26         10uF                   CAP_POL1206-KIT            EIA3216-KIT        SparkFun   6
+C27         0.1uF                  C-USC0805                  C0805              adafruit   6
+C28         10uF                   CAP_POL1206-KIT            EIA3216-KIT        SparkFun   6
+C29         0.1uF                  C-USC0805                  C0805              adafruit   6
+C30         0.1uF                  C-USC0805                  C0805              adafruit   1
+C31         0.1uF                  C-USC0805                  C0805              adafruit   1
+C32         0.1uF                  CAP0805                    0805               SparkFun   1
+C33         2.2nF                  CAP0805                    0805               SparkFun   1
+C34         0.1uF                  CAP0805                    0805               SparkFun   1
+C35         10nF                   CAP0805                    0805               SparkFun   1
+C36         10uF                   CPOL-USCT6032              CT6032             adafruit   1
+C38         0.1uf                  C-USC0805K                 C0805K             adafruit   4
+C39         0.1uF                  C-USC0603                  C0603              minimidi   2
+CG          RED                    LEDSML0805                 SML0805            led        3
+CHG                                SWITCH-SPSTPTH             SWITCH-SPDT        SparkFun   3
+CN1                                USBMINIB                   USB-MINIB          adafruit   4
+EACT                               LEDCHIP-LED0805            CHIP-LED0805       adafruit   4
+ELINK                              LEDCHIP-LED0805            CHIP-LED0805       adafruit   4
+ETHERNET    M04X2                  M04X2                      2X4                SparkFun   4
+F1          1A                     PTCFUSE-1812               1812               adafruit   2
+F2          1A                     PTCFUSE-1812               1812               adafruit   2
+F3          1A                     PTCFUSE-1812               1812               adafruit   2
+IC1         FT232RL                FT232RL                    SSOP28             ftdichip   4
+IC2         ATMEGA1280-16AU        ATMEGA1280-16AU            TQFP100            atmel-2005 1
+IC3         FT232RL                FT232RL                    SSOP28             ftdichip   5
+IC4         FT232RL                FT232RL                    SSOP28             ftdichip   5
+ICSP        ICSP                   PINHD-2X3                  2X03               pinhead    1
+ISP1        AVRISP-6               AVRISP-6                   AVRISP             adafruit   3
+J1          EUROMAG-4              EUROMAG-4                  M4                 NASA_LIB   2
+J2          EUROMAG-4              EUROMAG-4                  M4                 NASA_LIB   2
+J3          EUROMAG-4              EUROMAG-4                  M4                 NASA_LIB   2
+J4          0874271042             0874271042                 0874271042         NASA_LIB   7
+J5          0559591630             0559591630                 0559591630         NASA_LIB   7
+J6          0559591630             0559591630                 0559591630         NASA_LIB   7
+J7          0559591630             0559591630                 0559591630         NASA_LIB   7
+J8          0559591630             0559591630                 0559591630         NASA_LIB   7
+JP1                                M03POLAR                   MOLEX-1X3          SparkFun   4
+JP3                                M05LOCK_LONGPADS           1X05_LOCK_LONGPADS SparkFun   7
+JP4                                M021X02_NO_SILK            1X02_NO_SILK       SparkFun   3
+JP5                                JUMPER-2PTH_LOCK           1X02_LOCK          SparkFun   3
+JP6                                M02-JST-2MM-SMT            JST-2-SMD          SparkFun   3
+JP8                                M05LOCK_LONGPADS           1X05_LOCK_LONGPADS SparkFun   7
+JP9         M13                    M13                        1X13               SparkFun   7
+JP10                               M04POLAR                   MOLEX-1X4          SparkFun   4
+JP11                               M04POLAR                   MOLEX-1X4          SparkFun   7
+JP12                               M02POLAR_LOCK              MOLEX-1X2_LOCK     SparkFun   3
+JP13                               M04SMD                     1X04-SMD           SparkFun   5
+JP14                               M04SMD                     1X04-SMD           SparkFun   5
+JP15                               M04SMD                     1X04-SMD           SparkFun   5
+JP16                               M04SMD                     1X04-SMD           SparkFun   5
+JP17                               M04POLAR                   MOLEX-1X4          SparkFun   6
+JP18                               M04POLAR                   MOLEX-1X4          SparkFun   6
+K1          SIL24-1A72-71L         35701331                   REED               relay      3
+L2          47uH                   L-USL2012C                 L2012C             rcl        3
+LANNAS                             M03POLAR                   MOLEX-1X3          SparkFun   4
+LED1                               LEDCHIPLED_0805            CHIPLED_0805       adafruit   3
+LED3        RED                    LEDCHIP-LED0805            CHIP-LED0805       adafruit   1
+LED4        GREEN                  LEDCHIP-LED0805            CHIP-LED0805       adafruit   1
+LED5        RED                    LEDCHIP-LED0805            CHIP-LED0805       adafruit   1
+LED6        GREEN                  LEDCHIP-LED0805            CHIP-LED0805       adafruit   1
+MCS                                M03LOCK                    1X03_LOCK          SparkFun   1
+NAS                                M03POLAR                   MOLEX-1X3          SparkFun   1
+NAS3V                              M03LOCK_NO_SILK            1X03_LOCK_NO_SILK  SparkFun   4
+OSS         16Mhz                  CERMOSCILL-AWCSR           AWCSR              adafruit   1
+Q1          STB16NF06LT4           MOSFET-NCHANNELFDD8580     DPAK               SparkFun   2
+Q2          STB16NF06LT4           MOSFET-NCHANNELFDD8580     DPAK               SparkFun   2
+Q3          NCH                    MOSFET-NCHANNELFDD8580     DPAK               SparkFun   2
+Q4          NCH                    MOSFET-NCHANNELFDD8580     DPAK               SparkFun   2
+Q5          NCH                    MOSFET-NCHANNELFDD8580     DPAK               SparkFun   2
+Q6          NCH                    MOSFET-NCHANNELFDD8580     DPAK               SparkFun   2
+Q7          NCH                    MOSFET-NCHANNELFDD8580     DPAK               SparkFun   2
+Q8          NCH                    MOSFET-NCHANNELFDD8580     DPAK               SparkFun   2
+Q9          NCH                    MOSFET-NCHANNELFDD8580     DPAK               SparkFun   2
+Q10         MOSFET-NCHANNELFDD8580 MOSFET-NCHANNELFDD8580     DPAK               SparkFun   1
+Q11         BSS138                 MOSFET-NCHANNELSMD         SOT23-3            SparkFun   1
+Q12         BSS138                 MOSFET-NCHANNELSMD         SOT23-3            SparkFun   1
+Q13         BSS138                 MOSFET-NCHANNELSMD         SOT23-3            SparkFun   4
+Q14         BSS138                 MOSFET-NCHANNELSMD         SOT23-3            SparkFun   4
+Q15         MOSFET-P               MOSFET-PCHANNEL-SOIC8SOIC8 SO08               SparkFun   1
+Q16         MOSFET-NCHANNELFDD8580 MOSFET-NCHANNELFDD8580     DPAK               SparkFun   1
+R1          10k                    R-US_R0805                 R0805              adafruit   1
+R2          10k                    R-US_R0805                 R0805              adafruit   2
+R3          1K                     R-US_R0805                 R0805              adafruit   4
+R4          1K                     R-US_R0805                 R0805              adafruit   4
+R5          182                    R-US_R0805                 R0805              adafruit   4
+R6          182                    R-US_R0805                 R0805              adafruit   4
+R7          182                    R-US_R0805                 R0805              adafruit   4
+R8          75                     R-US_R0805                 R0805              adafruit   4
+R9          75                     R-US_R0805                 R0805              adafruit   4
+R10         1k                     RESISTOR0805-RES           0805               SparkFun   7
+R11         330                    RESISTOR0805-RES           0805               SparkFun   7
+R12         1k                     RESISTOR0805-RES           0805               SparkFun   7
+R13         10k                    R-US_R0805                 R0805              resistor   3
+R14         330                    R-US_R0805                 R0805              resistor   3
+R16         330                    R-US_R0805                 R0805              resistor   3
+R17         2k                     R-US_R0805                 R0805              resistor   3
+R20         10k                    R-US_R0805                 R0805              resistor   3
+R21         2k                     RESISTOR0805-RES           0805               SparkFun   7
+R22         10k                    R-US_R0805                 R0805              adafruit   4
+R23         10k                    R-US_R0805                 R0805              adafruit   4
+R24         10k                    R-US_R0805                 R0805              adafruit   4
+R25         1k                     R-US_R0805                 R0805              adafruit   1
+R26         10k                    R-US_R0805                 R0805              adafruit   1
+R27         10k                    R-US_R0805                 R0805              adafruit   4
+R28         10K                    R-US_R0805                 R0805              adafruit   4
+R29         10K                    R-US_R0805                 R0805              adafruit   4
+R31         1k                     R-US_R0805                 R0805              resistor   3
+R32         4.7k                   R-US_R0805                 R0805              resistor   3
+R33         2k                     R-US_R0805                 R0805              resistor   3
+R34         1k                     R-US_R0805                 R0805              adafruit   1
+R35         1k                     R-US_R0805                 R0805              adafruit   1
+R36         1k                     R-US_R0805                 R0805              adafruit   1
+R37         1k                     R-US_R0805                 R0805              adafruit   1
+R38         10k                    R-US_R0805                 R0805              adafruit   1
+R39         10k                    R-US_R0805                 R0805              adafruit   1
+R40         2k                     R-US_R0805                 R0805              adafruit   1
+R41         2k                     R-US_R0805                 R0805              adafruit   1
+R42         10k                    R-US_R0805                 R0805              adafruit   1
+R43         10k                    R-US_R0805                 R0805              adafruit   1
+R44                                R-US_R0805                 R0805              resistor   3
+R45                                R-US_R0805                 R0805              resistor   3
+R46                                R-US_R0805                 R0805              resistor   3
+R47                                R-US_R0805                 R0805              resistor   3
+RASPBERRYPI RASPBERRY PI           M13                        1X13               SparkFun   7
+RX          Green                  LEDCHIP-LED0805            CHIP-LED0805       adafruit   4
+S1                                 TAC_SWITCHSMD              TACTILE_SWITCH_SMD SparkFun   1
+S3                                 TAC_SWITCHPTH              TACTILE-PTH        SparkFun   3
+SJ1         SOLDERJUMPERTRACE      SOLDERJUMPERTRACE          SJ_2S-TRACE        SparkFun   3
+SJ3                                SOLDERJUMPER_2WAYPASTE2&3  SJ_3_PASTE2&3      SparkFun   1
+SJ4                                SOLDERJUMPERTRACE          SJ_2S-TRACE        SparkFun   1
+SJ5                                SOLDERJUMPERTRACE          SJ_2S-TRACE        SparkFun   1
+SJ6                                SOLDERJUMPER_2WAYPASTE2&3  SJ_3_PASTE2&3      SparkFun   1
+T2          NTE0505MC              NTE0505MC                  SO-8FT             EmEndev    3
+TX          Red                    LEDCHIP-LED0805            CHIP-LED0805       adafruit   4
+U$16        TCMT1103-OPTO          TCMT1103-OPTO              SSOP-4             SparkFun   3
+U$17        TCMT1103-OPTO          TCMT1103-OPTO              SSOP-4             SparkFun   3
+U$18        TCMT1103-OPTO          TCMT1103-OPTO              SSOP-4             SparkFun   3
+U$19        TCMT1103-OPTO          TCMT1103-OPTO              SSOP-4             SparkFun   3
+U1          LANTRONIX_B/G          LANTRONIX_A/B              LANA/BTH           NASA_LIB   4
+U2                                 PCA9685                    TSSOP28            adafruit   2
+U3          ATMEGA328              ATMEGA168                  TQFP32-08          SparkFun   3
+U5          IL715                  IL715                      S016               NASA_LIB   3
+U6          IL715                  IL715                      S016               NASA_LIB   3
+U7          MCP73831               MCP73831                   SOT23-5            SparkFun   3
+U8          SN751178               SN751178                   S016               NASA_LIB   5
+U9          MAX17043G+U            MAX1704X                   TDFN-8             SparkFun   3
+U10         MIC5014                MIC5014                    SO08               NASA_LIB   1
+U11         ADS1015                ADS1015                    MSOP-10            NASA_LIB   6
+U12         MPU-6050-1             MPU-6050-1                 QFN-24-4MM2        Testing    1
+U13         ADS1015                ADS1015                    MSOP-10            NASA_LIB   6
+U15         MIC5014                MIC5014                    SO08               NASA_LIB   1
+U16         CD74HC4052PWR          CD74HC4052PWR              TSSOP-16           NASA_LIB   4
+U20         MAX823                 MAX823                     SOT23-5L           NASA_LIB   3
+U47         MAX6818                MAX6818                    SSOP-20            RJ's parts 1
+U49         MAX6818                MAX6818                    SSOP-20            RJ's parts 1
+USB                                M03LOCK                    1X03_LOCK          SparkFun   1
+VREG        MIC5205-3.3V           V_REG_LDOSMD               SOT23-5            SparkFun   3
+WIFI                               LEDCHIP-LED0805            CHIP-LED0805       adafruit   4
+X1          TLA-6T118LF            TLA-6T118LF                SO-16MOD           NASA_LIB   4
+X4                                 CERMOSCILL-AWCSR           AWCSR              adafruit   3

@@ -1,0 +1,66 @@
+Partlist
+
+Exported from Dist.sch at 1/16/2013 11:27:02 PM
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value              Device             Package        Library  Sheet
+
+C1                          CAP_POL3528        EIA3528        SparkFun 1
+C2                          CAP_POL3528        EIA3528        SparkFun 1
+C3                          CAP_POL3528        EIA3528        SparkFun 1
+C4                          CAP_POL3528        EIA3528        SparkFun 1
+C5                          CAP_POL3528        EIA3528        SparkFun 1
+C6                          CAP_POL3528        EIA3528        SparkFun 1
+C7                          CAP_POL3528        EIA3528        SparkFun 1
+C8                          CAP_POL3528        EIA3528        SparkFun 1
+F1                          PTCFUSE-1812       1812           adafruit 1
+H1       MOUNT-PAD-ROUND5.5 MOUNT-PAD-ROUND5.5 5,5-PAD        holes    1
+H2       MOUNT-PAD-ROUND5.5 MOUNT-PAD-ROUND5.5 5,5-PAD        holes    1
+H3       MOUNT-PAD-ROUND5.5 MOUNT-PAD-ROUND5.5 5,5-PAD        holes    1
+H4       MOUNT-PAD-ROUND5.5 MOUNT-PAD-ROUND5.5 5,5-PAD        holes    1
+J1       EUROMAG-3UP        EUROMAG-3UP        M3-UP          NASA_LIB 1
+J2       EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J3       0559591630         0559591630         0559591630     NASA_LIB 1
+J4       EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J5       0559591630         0559591630         0559591630     NASA_LIB 1
+J6       EUROMAG-3UP        EUROMAG-3UP        M3-UP          NASA_LIB 1
+J7       EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J8       EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J9       EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J10      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J11      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J12      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J13      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J14      0559591630         0559591630         0559591630     NASA_LIB 1
+J15      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J16      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J17      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J18      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J19      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J20      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J21      EUROMAG-290DEG     EUROMAG-290DEG     M2             NASA_LIB 1
+J22      EUROMAG-3UP        EUROMAG-3UP        M3-UP          NASA_LIB 1
+J23      EUROMAG-3UP        EUROMAG-3UP        M3-UP          NASA_LIB 1
+J24      EUROMAG-3UP        EUROMAG-3UP        M3-UP          NASA_LIB 1
+J25      EUROMAG-3UP        EUROMAG-3UP        M3-UP          NASA_LIB 1
+J26      0559591630         0559591630         0559591630     NASA_LIB 1
+J27      EUROMAG-3UP        EUROMAG-3UP        M3-UP          NASA_LIB 1
+J28      EUROMAG-3UP        EUROMAG-3UP        M3-UP          NASA_LIB 1
+J29      EUROMAG-3UP        EUROMAG-3UP        M3-UP          NASA_LIB 1
+J30      EUROMAG-3UP        EUROMAG-3UP        M3-UP          NASA_LIB 1
+J31      EUROMAG-390DEG     EUROMAG-390DEG     M3             NASA_LIB 1
+J32      EUROMAG-390DEG     EUROMAG-390DEG     M3             NASA_LIB 1
+J33      EUROMAG-390DEG     EUROMAG-390DEG     M3             NASA_LIB 1
+J34      EUROMAG-390DEG     EUROMAG-390DEG     M3             NASA_LIB 1
+J35      EUROMAG-390DEG     EUROMAG-390DEG     M3             NASA_LIB 1
+J36      EUROMAG-390DEG     EUROMAG-390DEG     M3             NASA_LIB 1
+J37      EUROMAG-390DEG     EUROMAG-390DEG     M3             NASA_LIB 1
+J38      EUROMAG-390DEG     EUROMAG-390DEG     M3             NASA_LIB 1
+JP1                         M02POLAR_LOCK      MOLEX-1X2_LOCK SparkFun 1
+JP2                         M04POLAR_LOCK      MOLEX-1X4_LOCK SparkFun 1
+JP3                         M04POLAR_LOCK      MOLEX-1X4_LOCK SparkFun 1
+LED1                        LEDCHIPLED_0805    CHIPLED_0805   adafruit 1
+R1                          R-US_R0805         R0805          adafruit 1

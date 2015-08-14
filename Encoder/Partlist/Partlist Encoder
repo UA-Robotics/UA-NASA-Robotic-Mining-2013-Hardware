@@ -1,0 +1,41 @@
+Partlist
+
+Exported from Encoder board Trim#1.brd at 11/18/2013 3:13:12 PM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part        Value           Package  Library       Position (mil)        Orientation
+
+ANALOG_PINS                 06P      con-amp-quick (1375 1975)           R180
+C1          100n            C0805RND rcl           (2550 725)            R0
+C2          22p             C0805RND rcl           (1520 380)            R0
+C3          22p             C0805RND rcl           (1520 480)            R0
+C4          100n            C0805RND rcl           (1040 1740)           R0
+C5          100n            C0805RND rcl           (640 740)             R0
+C6          100u            SMC_D    rcl           (900 240)             R270
+C7          100u            SMC_D    rcl           (1120 240)            R270
+C9          100n            C0805RND rcl           (2535 1475)           R180
+C10         100n            C0805RND rcl           (1520 280)            R0
+C11         22p             C0805RND rcl           (1040 640)            R0
+D1                          SMB      diode         (680 360)             R270
+F1                          R1206    adafruit      (225 450)             R0
+IC2         ATMEGA1280-16AU TQFP100  atmel-2005    (2000 1116)           R0
+IC4         MC33269D-5.0    DPACK    linear        (275 700)             R90
+ICSP        ICSP            2X03     pinhead       (2555 1100)           R270
+INT1&2                      M4       NASA_LIB      (1775 1975)           R0
+INT3&4                      M4-90    NASA_LIB      (1775 1675)           R0
+INT7&8                      M4-90    NASA_LIB      (2575 1675)           R0
+J1                          M2       NASA_LIB      (400 200)             R90
+J4                          M4       NASA_LIB      (2575 1975)           R0
+L                           0805RND  led           (1040 1540)           R180
+PWR                         0805RND  led           (3000 1460)           R180
+Q2          16MHz           HC49/S   crystal       (1700 520)            R90
+R1          1K              R0805RND rcl           (1040 1640)           R180
+R5          10K             R0805RND rcl           (1040 740)            R0
+R8          1K              R0805RND rcl           (3180 1360)           R180
+RS485       EUROMAG-4       M4       NASA_LIB      (175 1125)            R90
+S1                          B3F-10XX switch-omron  (2920 1100)           R180
+U1          ISL83077        SO08     NASA_LIB      (850 1175)            R90
+UART                        MA03-1   con-lstb      (2200 625)            R0

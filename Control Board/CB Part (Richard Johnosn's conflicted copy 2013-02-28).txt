@@ -1,0 +1,48 @@
+Partlist
+
+Exported from Control Board1.brd at 2/27/2013 2:38:31 AM
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value              Package       Library      Position (mil)        Orientation
+
+3.3V1                       M2            NASA_LIB     (2274 500)            R180
+5V1                         M2            NASA_LIB     (2682 498)            R180
+9V1                         M2            NASA_LIB     (3089 495)            R180
+9V2                         M2            NASA_LIB     (3500 493)            R180
+C1       2200uF             EB25D         adafruit     (3209 1231)           R90
+C2       10uF               CT3528        adafruit     (2809 1220)           R0
+C3       0.1uf              C0805K        adafruit     (79 1753)             MR90
+C4       10uf               EIA3528       SparkFun     (291 1635)            MR90
+C5       10uF               CT3528        adafruit     (2513 1213)           R0
+C6       10uF               CT3528        adafruit     (2207 923)            R270
+C7       10nF               C0805         adafruit     (2401 666)            MR0
+C8       10uf               EIA3528       SparkFun     (2543 1907)           MR90
+C11      0.1uF              C0805K        adafruit     (3338 2627)           MR270
+C12      0.1uF              C0805K        adafruit     (3268 2398)           MR0
+C13      1000pF             C1812         adafruit     (1737 2718)           MR90
+C14      10uF               EIA3528-KIT   SparkFun     (3465 2623)           MR90
+C16      100n               C0805         adafruit     (1196 2061)           R0
+C17      100n               C0805         adafruit     (505 1826)            R180
+C18      100n               C0805         adafruit     (1131 1260)           MR180
+C19      100n               C0805         adafruit     (1233 1673)           MR270
+C20      22p                C0805         adafruit     (564 1948)            R90
+C30      0.1uF              C0805         adafruit     (809 902)             R270
+C31      0.1uF              C0805         adafruit     (1623 910)            R270
+D3       Green              LED-0603      SparkFun     (2679 1535)           R180
+D4       Red                LED-0603      SparkFun     (2732 1483)           R180
+J1       0559591630         0559591630    NASA_LIB     (367 1102)            R90
+J2       EUROMAG-4UP        M4-90         NASA_LIB     (2371 2520)           R0
+J4       0559591630         0559591630    NASA_LIB     (1664 371)            R180
+J5       EUROMAG-4          M4            NASA_LIB     (2376 2854)           R0
+J9       0559591630         0559591630    NASA_LIB     (887 371)             R180
+J10      EUROMAG-290DEG     M2            NASA_LIB     (6026 2409)           R270
+JP1                         MOLEX-1X3     SparkFun     (2046 1883)           R270
+JP4                         1X04_LOCK     SparkFun     (3176 2848)           R0
+JP7                         1X03_LOCK     SparkFun     (3475 2061)           R270
+R17      1.2k               0805          SparkFun     (2100 1545)           R180
+RX1      Green              CHIP-LED0805  adafruit     (3328 2316)           R90
+TX1      Red                CHIP-LED0805  adafruit     (3327 2224)           R90
+U$10     M04X2              2X4           SparkFun     (2036 3125)           R0        

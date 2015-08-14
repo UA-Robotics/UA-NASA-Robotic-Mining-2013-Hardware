@@ -1,0 +1,12 @@
+Partlist
+
+Exported from PCU.sch at 2/25/2013 6:01:39 PM
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value                  Device                 Package          Library  Sheet
+
+D5       SS12-E3/5AT            DIODESMA               SMADIODE         adafruit 1
+

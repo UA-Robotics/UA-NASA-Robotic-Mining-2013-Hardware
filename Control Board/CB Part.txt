@@ -1,0 +1,13 @@
+Partlist
+
+Exported from Control Board1.brd at 2/27/2013 2:38:31 AM
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value              Package       Library      Position (mil)        Orientation
+
+JP1                         MOLEX-1X3     SparkFun     (2046 1883)           R270
+JP7                         1X03_LOCK     SparkFun     (3475 2061)           R270
+U$10     M04X2              2X4           SparkFun     (2036 3125)           R0        

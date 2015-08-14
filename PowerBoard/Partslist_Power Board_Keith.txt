@@ -1,0 +1,118 @@
+Partlist
+
+Exported from PCU.brd at 4/19/2014 3:12:05 PM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value                  Package          Library  Position (mil)        Orientation
+
+3.3V                            CHIPLED_0805     adafruit (659 548)             R270
+3V3      Vin                    CHIP-LED0805     adafruit (3940 829)            R270
+5V       Vin                    CHIP-LED0805     adafruit (3941 753)            R270
+9V       Vin                    CHIP-LED0805     adafruit (3943 684)            R270
+12V      Vin                    CHIP-LED0805     adafruit (3945 604)            R270
+C1       10uF                   EIA7343          SparkFun (1102 592)            R0
+C2       10uF                   EIA3216          SparkFun (897 2496)            MR0
+C3       POLCAP                 POLC1206         NASA_LIB (635 806)             R0
+C4       1uf/50v                C0805            adafruit (3098 1530)           R0
+C5       1uf/50v                C0805            adafruit (3096 1680)           R0
+C6       1200uF/50v             CAN_18MM         NASA_LIB (3564 1238)           R180
+C7       1200uF/50v             CAN_18MM         NASA_LIB (3564 1965)           R180
+C8       10uF                   CT6032           adafruit (1083 1510)           MR0
+C9       DNP                    C0805            adafruit (2770 1250)           MR90
+C10      DNP                    C0805            adafruit (2764 383)            MR90
+C11      DNP                    C0805            adafruit (2192 1119)           MR270
+C12      DNP                    C0805            adafruit (2883 403)            MR180
+C13      DNP                    C0805            adafruit (2883 319)            MR180
+C14      DNP                    C0805            adafruit (2883 236)            MR180
+C15      DNP                    C0805            adafruit (2883 148)            MR180
+C16      DNP                    C0805            adafruit (2889 1201)           MR180
+C17      DNP                    C0805            adafruit (2137 333)            MR90
+C18      DNP\                   C0805            adafruit (2263 388)            MR180
+C19      DNP                    C0805            adafruit (2263 304)            MR180
+C20      10uF                   CT6032           adafruit (730 1724)            R270
+C21      DNP\                   C0805            adafruit (2263 217)            MR180
+C22      DNP                    C0805            adafruit (2263 135)            MR180
+C23      1000pf                 C1825            adafruit (3540 194)            MR180
+C24      DNP                    C0805            adafruit (2889 1117)           MR180
+C25      DNP                    C0805            adafruit (2889 1034)           MR180
+C26      DNP                    C0805            adafruit (2889 1283)           MR180
+C27      1000uf                 PANASONIC_G      SparkFun (1109 963)            R270
+C28      DNP                    C0805            adafruit (2314 1168)           MR180
+C29      DNP                    C0805            adafruit (2315 1250)           MR180
+C30      DNP                    C0805            adafruit (2312 1338)           MR180
+C31      DNP                    C0805            adafruit (2314 1086)           MR180
+C32      0.1uF                  0805             SparkFun (122 2236)            R180
+C33      o.1uF                  0805             SparkFun (939 1898)            MR270
+C34      0.1uF                  0805             SparkFun (1034 1708)           MR0
+D1       MBRS340TRPBF           SMC              diode    (1516 647)            MR90
+D2                              CHIPLED_0805     adafruit (1692 2136)           R0
+D3       TVS                    DO-214AC         NASA_LIB (3550 668)            R0
+D4       Vin                    CHIP-LED0805     adafruit (3945 517)            R270
+D5       SS12-E3/5AT            SMADIODE         adafruit (573 1718)            R90
+D6       DIODE-ZENER-BZT52      SOD-323          SparkFun (876 2407)            MR180
+D9       30V                    SMB-DIODE        SparkFun (3549 797)            R0
+F1       0ZCA0100FF2E           R1206            adafruit (582 1997)            R90
+IC1      7806DT                 TO252            adafruit (656 1573)            MR0
+ISP1     AVRISP-6               AVRISP           adafruit (1535.0999 1921.80007) R180
+J2       0874271042             0874271042       NASA_LIB (2375 2205)           R0
+J3       EUROMAG-390DEG         M3               NASA_LIB (598 2204)            R0
+J4       EUROMAG-390DEG         M3               NASA_LIB (1300 2200)           R0
+J5       EUROMAG-290DEG         M2               NASA_LIB (395 1020)            R90
+J6       EUROMAG-290DEG         M2               NASA_LIB (1079 386)            R180
+J7       EUROMAG-4              M4               NASA_LIB (395 1400)            R90
+J11      ESTOP                  M2               NASA_LIB (620 386)             R180
+JP6                             1X05_LONGPADS    SparkFun (3175 315)            R90
+JP7                             MOLEX-1X4        SparkFun (3370 2456)           R180
+L1                              0603             EmEndev  (3383 637)            R90
+L2                              0603             EmEndev  (3718 634)            R90
+L3       100uH                  INDUCTOR_5X3     NASA_LIB (1583 337)            R0
+Q1       MOSFET-NCHANNELFDD8580 DPAK             SparkFun (222 624)             R90
+R1       10k                    M0805            adafruit (1348.10002 1820)     MR180
+R2       500                    M0805            adafruit (600 2462)            MR270
+R3       500                    M0805            adafruit (694 2462)            MR90
+R4       150                    M0805            adafruit (732 2339)            MR0
+R5       10k                    0805             SparkFun (940 1389)            R0
+R6       10k                    0805             SparkFun (779 909)             R90
+R7       10k                    0805             SparkFun (940 1321)            R180
+R8       10k                    R0805            adafruit (2455 788)            R270
+R9       10k                    R0805            adafruit (3038 825)            MR270
+R10      10k                    R0805            adafruit (3054 827)            R270
+R11      10k                    R0805            adafruit (2793 1899)           R270
+R12      1k                     M0805            adafruit (1692 1980)           R270
+R13      24k                    R0805            adafruit (1100 2406)           MR180
+R14      91k                    R0805            adafruit (1299 2406)           MR180
+R15      1.21k                  R0805            adafruit (3835 363)            MR270
+R16      26.92k                 R0805            adafruit (2803 500)            MR0
+R17      16.27k                 R0805            adafruit (2810 1373)           MR0
+R18      6.19k                  R0805            adafruit (2101 1186)           MR270
+R19      DNP                    R0805            adafruit (2764 229)            MR270
+R20      DNP                    R0805            adafruit (2769 1089)           MR270
+R21      DNP                    R0805            adafruit (2192 1282)           MR90
+R22      8.43k                  R0805            adafruit (2224 472)            MR0
+R23      DNP                    R0805            adafruit (2137 168)            MR270
+R24      1.21k                  R0805            adafruit (3565 1015)           MR90
+R25      1.21k                  R0805            adafruit (3645 1015)           MR90
+R26      1.21k                  R0805            adafruit (3725 1015)           MR90
+R27      1.21k                  R0805            adafruit (3805 1015)           MR90
+R28      330                    0805             SparkFun (652 671)             R180
+R37      91k                    R0805            adafruit (690 236)             MR180
+R38      24k                    R0805            adafruit (527 236)             MR0
+S1       SWITCH                 TACTILE-PTH      SparkFun (1577 1550)           R180
+SJ1      SOLDERJUMPERNO         SJ_2S-NO         SparkFun (1796 2367)           R270
+U$7      TCMT1103-OPTO          SSOP-4           SparkFun (818 1278)            R270
+U1       ATMEGA168              TQFP32-08        SparkFun (1132.79995 1819.19993) R90
+U2       ISL83077               SO08             NASA_LIB (153 1874)            MR180
+U3       LTC1981                SOT23-5L         NASA_LIB (625 945)             R90
+U4       LM2576                 TO-263-5         NASA_LIB (1581 946)            R0
+U7       APXW005A0X43-SRZ       APXW005A0X43-SRZ NASA_LIB (2375 105)            R90
+U8       ACS712                 SO08             SparkFun (2989 2078)           R0
+U10      APXW005A0X43-SRZ       APXW005A0X43-SRZ NASA_LIB (2975 1005)           R90
+U12      APXW005A0X43-SRZ       APXW005A0X43-SRZ NASA_LIB (2375 1005)           R90
+U13      APXW005A0X43-SRZ       APXW005A0X43-SRZ NASA_LIB (2975 105)            R90
+U14      MAX823                 SOT23-5L         NASA_LIB (1132 1860)           MR90
+V1       30V                    0603-RES         SparkFun (3550 583)            R180
+VIN      EUROMAG-290DEG         M2               NASA_LIB (3540 439)            R180
+X1       16Mhz                  AWCSR            adafruit (1228.10015 1485.5999) R0

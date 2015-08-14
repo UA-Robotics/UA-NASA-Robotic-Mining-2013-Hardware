@@ -1,0 +1,13 @@
+Partlist
+
+Exported from HHC.sch at 1/16/2013 10:16:49 PM
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value                 Device                Package           Library                    Sheet
+                                                                 
+R1        1k                   RESISTOR0805-RES      0805              SparkFun-Resistors         1
+R3        1k                   RESISTOR0805-RES      0805              SparkFun-Resistors         1
+                             
